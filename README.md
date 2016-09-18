@@ -1,6 +1,8 @@
 
 # Grab-Twitter-Image-Links
 Grab someone twitter images from his/her profile and display all the download links.
+An old project, created just for fun while I'm bored.
+May not be efficient or overkill since I use jQuery, because when I created this, I was too lazy to learn proper javascript.
 
 ## Created By :
 1. Afif Zafri
